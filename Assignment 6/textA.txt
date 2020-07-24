@@ -1,0 +1,8 @@
+Literary analysis is making increasing use of computer algorithms to
+determine stylistic properties of texts. For example, a scholar may be
+faced with the question of determining whether a newly discovered play
+from the time of Shakespeare was in fact authored by
+Shakespeare. Arguments for or against the attribution could be based
+on similarities or differences in the vocabulary, average sentence
+length, and other features of the play compared to known works by 
+Shakespeare and his contemporaries.

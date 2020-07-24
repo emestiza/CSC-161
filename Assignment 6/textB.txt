@@ -1,0 +1,9 @@
+Arguments for or against the attribution could be based on
+similarities or differences in the vocabulary, average sentence
+length, and other features of the play compared to known works by
+Shakespeare and his contemporaries.
+
+In this assignment, you will create a program that compares two
+literary works and calculates how similar their vocabularies are. You
+will then use your program to make a guess at the authorship of a
+"newly discovered" work of literature.

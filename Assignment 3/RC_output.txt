@@ -1,0 +1,18 @@
+Python 3.3.3 (v3.3.3:c3896275c0f6, Nov 18 2013, 21:18:40) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter annual deposit:1000
+Enter annual interest rate:12
+Enter number of years until retirement:10
+1120.0
+2374.4
+3779.33
+5352.85
+7115.19
+9089.01
+11299.69
+13775.66
+16548.74
+19654.58
+>>> 
